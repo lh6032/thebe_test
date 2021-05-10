@@ -4,6 +4,10 @@
 #
 #    pip-compile
 #
+jupytext # for plotly
+plotly==4.14.3 # for plotly
+jupyter # for plotly
+
 cycler==0.10.0            # via matplotlib
 kiwisolver==1.2.0         # via matplotlib
 matplotlib==3.2.1
@@ -16,3 +20,5 @@ scipy==1.4.1              # via seaborn
 seaborn==0.10.1
 six==1.15.0               # via cycler, python-dateutil
 pywaffle==0.6.1
+
+plotly-geo # for plotly
