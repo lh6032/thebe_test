@@ -22,3 +22,5 @@ six==1.15.0               # via cycler, python-dateutil
 pywaffle==0.6.1
 
 plotly-geo # for plotly
+
+sklearn=0.0
