@@ -24,3 +24,4 @@ pywaffle==0.6.1
 plotly-geo # for plotly
 
 sklearn==0.0
+mlxtend==0.18.0
