@@ -25,3 +25,4 @@ plotly-geo # for plotly
 
 sklearn==0.0
 mlxtend==0.18.0
+statsmodels==0.12.2
